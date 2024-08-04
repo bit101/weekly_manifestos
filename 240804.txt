@@ -1,0 +1,23 @@
+                                    Sunday, August 4, 2024
+
+Software Complexity Manifesto
+-----------------------------
+
+When you've been writing code or just using technology long enough, you will see certain patterns emerge over time.
+
+Here's a common one.
+
+1. A new framework or library or app is released. It is praised for its simplicity and conciseness. It is seen as much more stable and reliable than its predecessors due to its lack of complexity. It's also loved because it is more accessible and understandable, especially for newcomers.
+
+2. As time goes on and the framework/library/app becomes more popular, there are some gripes that while simple things are so much more simple, when you have to do something more complex, it falls down somewhat. You have to hack together solutions to these more complex workflows, which aren't great.
+
+3. In response, the framework/library/app grows new features that take these new workflows into account. This makes users very happy. People are excited about the next release because it hopefully brings that new feature they've been waiting for, which will make everything so much better.
+
+4. More problems and missing features continue to arise and more solutions are added over time. Repeat steps 2-3 over and over.
+
+5. Eventually the framework/library/app is huge, bloated and complicated. The learning curve is huge. Instead of a simple get started document, there are now books and courses and workshops. It's daunting to get started with, and maintenance and the continued upgrades are a pain.
+
+6. A new framework or library or app is released... GOTO 1
+
+
+                          END
